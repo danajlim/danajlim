@@ -1,0 +1,74 @@
+NumExpr defaulting to 8 threads.
+[I 2023-10-18 15:50:28.235 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-10-18 15:50:28.248 ServerApp] Writing Jupyter server cookie secret to /Users/danalim/Library/Jupyter/runtime/jupyter_cookie_secret
+[I 2023-10-18 15:50:28.537 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-10-18 15:50:28.537 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2023-10-18 15:50:28.658 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-10-18 15:50:28.659 LabApp] JupyterLab extension loaded from /Users/danalim/opt/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-10-18 15:50:28.659 LabApp] JupyterLab application directory is /Users/danalim/opt/anaconda3/share/jupyter/lab
+[I 2023-10-18 15:50:28.663 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-10-18 15:50:28.664 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2023-10-18 15:50:28.666 ServerApp] Serving notebooks from local directory: /Users/danalim
+[I 2023-10-18 15:50:28.666 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2023-10-18 15:50:28.666 ServerApp] http://localhost:8888/lab?token=b5812b82b4fd437e867981b7859a25f54dd7b8b644edffa9
+[I 2023-10-18 15:50:28.666 ServerApp]  or http://127.0.0.1:8888/lab?token=b5812b82b4fd437e867981b7859a25f54dd7b8b644edffa9
+[I 2023-10-18 15:50:28.666 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-10-18 15:50:28.669 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/danalim/Library/Jupyter/runtime/jpserver-25963-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=b5812b82b4fd437e867981b7859a25f54dd7b8b644edffa9
+     or http://127.0.0.1:8888/lab?token=b5812b82b4fd437e867981b7859a25f54dd7b8b644edffa9
+[W 2023-10-18 15:50:32.175 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-10-18 15:50:39.370 LabApp] 302 GET /lab (::1) 1.37ms
+[W 2023-10-18 15:50:39.426 ServerApp] 404 GET /apple-touch-icon-precomposed.png (::1) 5.77ms referer=None
+[W 2023-10-18 15:50:39.427 ServerApp] 404 GET /apple-touch-icon.png (::1) 0.82ms referer=None
+[I 2023-10-18 15:50:39.433 LabApp] 302 GET /lab (::1) 0.49ms
+[W 2023-10-18 15:50:39.441 ServerApp] 404 GET /apple-touch-icon-precomposed.png (::1) 1.01ms referer=None
+[W 2023-10-18 15:50:39.443 ServerApp] 404 GET /apple-touch-icon.png (::1) 0.78ms referer=None
+[I 2023-10-18 15:51:31.817 ServerApp] Creating new notebook in 
+[I 2023-10-18 15:51:31.866 ServerApp] Writing notebook-signing key to /Users/danalim/Library/Jupyter/notebook_secret
+[I 2023-10-18 15:51:32.197 ServerApp] Kernel started: a152109d-1f08-468e-b355-6d637e851b80
+[W 2023-10-18 15:51:33.133 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7fb371d37850>
+[I 2023-10-18 15:53:32.006 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-10-18 16:16:19.790 ServerApp] Saving file at /Desktop/database/7주차 파일/MySQLJDBC.java
+[I 2023-10-18 16:18:19.825 ServerApp] Saving file at /Desktop/database/7주차 파일/MySQLJDBC.java
+[I 2023-10-18 16:19:24.497 ServerApp] Kernel started: 616b270b-bb72-4bf4-9cda-f7546779db96
+[I 2023-10-18 16:19:24.513 ServerApp] Kernel shutdown: 616b270b-bb72-4bf4-9cda-f7546779db96
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/site.py", line 589, in <module>
+    main()
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/site.py", line 576, in main
+    known_paths = addsitepackages(known_paths)
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/site.py", line 359, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/site.py", line 208, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/site.py", line 169, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/importlib/util.py", line 2, in <module>
+    from . import abc
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/importlib/abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/typing.py", line 21, in <module>
+    import collections
+  File "/Users/danalim/opt/anaconda3/lib/python3.9/collections/__init__.py", line 33, in <module>
+    from itertools import chain as _chain
+KeyboardInterrupt
+[W 2023-10-18 16:19:24.628 ServerApp] 404 GET /api/kernels/616b270b-bb72-4bf4-9cda-f7546779db96/channels?session_id=3486fee6-bd9e-4a85-b03a-121218dd6362 (::1): Kernel does not exist: 616b270b-bb72-4bf4-9cda-f7546779db96
+[W 2023-10-18 16:19:24.631 ServerApp] 404 GET /api/kernels/616b270b-bb72-4bf4-9cda-f7546779db96/channels?session_id=3486fee6-bd9e-4a85-b03a-121218dd6362 (::1) 116.69ms referer=None
+[I 2023-10-18 16:21:08.511 ServerApp] Saving file at /Desktop/database/7주차 파일/MySQLPython.py
+[I 2023-10-18 16:24:49.949 ServerApp] Starting buffering for a152109d-1f08-468e-b355-6d637e851b80:1570272b-d77d-41ae-827f-f77660f65cdb
+[W 2023-10-18 17:03:21.828 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-10-18 17:03:22.078 ServerApp] 404 GET /api/contents/Desktop/database/7%EC%A3%BC%EC%B0%A8%20%ED%8C%8C%EC%9D%BC/MySQLPython.py?content=0&1697616202033 (::1): file or directory does not exist: 'Desktop/database/7주차 파일/MySQLPython.py'
+[W 2023-10-18 17:03:22.078 ServerApp] file or directory does not exist: 'Desktop/database/7주차 파일/MySQLPython.py'
+[W 2023-10-18 17:03:22.078 ServerApp] 404 GET /api/contents/Desktop/database/7%EC%A3%BC%EC%B0%A8%20%ED%8C%8C%EC%9D%BC/MySQLPython.py?content=0&1697616202033 (::1) 7.84ms referer=http://localhost:8888/lab/tree/Desktop/database/7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF
+[C 2023-10-19 17:24:28.443 ServerApp] received signal 15, stopping
+[I 2023-10-19 17:24:28.474 ServerApp] Shutting down 3 extensions
+[I 2023-10-19 17:24:28.480 ServerApp] Shutting down 1 kernel
+[I 2023-10-19 17:24:28.500 ServerApp] Kernel shutdown: a152109d-1f08-468e-b355-6d637e851b80
+[I 2023-10-19 17:24:29.525 ServerApp] Shutting down 0 terminals

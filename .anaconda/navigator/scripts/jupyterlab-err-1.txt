@@ -1,0 +1,27 @@
+NumExpr defaulting to 8 threads.
+[I 2023-10-18 15:50:28.234 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-10-18 15:50:28.248 ServerApp] Writing Jupyter server cookie secret to /Users/danalim/Library/Jupyter/runtime/jupyter_cookie_secret
+[I 2023-10-18 15:50:28.536 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-10-18 15:50:28.537 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2023-10-18 15:50:28.658 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-10-18 15:50:28.659 LabApp] JupyterLab extension loaded from /Users/danalim/opt/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-10-18 15:50:28.659 LabApp] JupyterLab application directory is /Users/danalim/opt/anaconda3/share/jupyter/lab
+[I 2023-10-18 15:50:28.663 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-10-18 15:50:28.664 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2023-10-18 15:50:28.665 ServerApp] The port 8888 is already in use, trying another port.
+[I 2023-10-18 15:50:28.666 ServerApp] Serving notebooks from local directory: /Users/danalim
+[I 2023-10-18 15:50:28.666 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2023-10-18 15:50:28.666 ServerApp] http://localhost:8889/lab?token=12207098660ac25e956ffe02481cc9c34796001414afb0d5
+[I 2023-10-18 15:50:28.666 ServerApp]  or http://127.0.0.1:8889/lab?token=12207098660ac25e956ffe02481cc9c34796001414afb0d5
+[I 2023-10-18 15:50:28.666 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-10-18 15:50:28.669 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/danalim/Library/Jupyter/runtime/jpserver-25918-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/lab?token=12207098660ac25e956ffe02481cc9c34796001414afb0d5
+     or http://127.0.0.1:8889/lab?token=12207098660ac25e956ffe02481cc9c34796001414afb0d5
+[W 2023-10-18 15:50:32.174 LabApp] Could not determine jupyterlab build status without nodejs
+[C 2023-10-19 17:24:28.444 ServerApp] received signal 15, stopping
+[I 2023-10-19 17:24:28.475 ServerApp] Shutting down 3 extensions
+[I 2023-10-19 17:24:28.481 ServerApp] Shutting down 0 terminals
