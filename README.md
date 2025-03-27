@@ -1,4 +1,7 @@
-## Hi there 👋
+##
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danajlim&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=danajlim&show_icons=true">
 
 <!--
 **danajlim/danajlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
