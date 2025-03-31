@@ -1,12 +1,9 @@
 
 🍀🍀🍀
 
-<div align="center">
 
-<img width="312" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danajlim&layout=compact&theme=graywhite&cache_seconds=1800">
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=danajlim&theme=graywhite&show_icons=true&cache_seconds=1800">
 
-## Skills
+<h2 align="center">Skills</h2>
 <!-- https://shields.io/ -->
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
 
@@ -29,8 +26,6 @@
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-
-</div>
 
 <!--
 <div align="center">
