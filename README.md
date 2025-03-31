@@ -1,9 +1,4 @@
 🍀🍀🍀
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danajlim&layout=compact&theme=graywhite&cache_seconds=1800">
-
-</div>
 <!--
 <div align="center">
 
