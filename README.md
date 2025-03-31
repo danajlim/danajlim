@@ -13,10 +13,15 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Java-F09820?style=flat-square&logo=coffeescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+    <img     src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
