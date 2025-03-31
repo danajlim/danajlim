@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
     <img     src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/#F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 
 </p>
 <p align="center">
