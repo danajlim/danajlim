@@ -1,15 +1,22 @@
+
 🍀🍀🍀
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danajlim&layout=compact&theme=graywhite&cache_seconds=1800">
+<img src="https://github-readme-stats.vercel.app/api?username=danajlim&theme=graywhite&show_icons=true&cache_seconds=1800">
+
+</div>
+
+
 <!--
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danajlim&layout=compact&theme=graywhite&cache_seconds=1800">
+<img src="https://github-readme-stats.vercel.app/api?username=danajlim&theme=graywhite&show_icons=true&cache_seconds=1800">
 
 </div>
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danajlim&layout=compact&theme=graywhite&cache_seconds=1800">
-
-</div>
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=danajlim&theme=graywhite&show_icons=true&cache_seconds=1800">
