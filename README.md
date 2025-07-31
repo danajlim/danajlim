@@ -19,12 +19,3 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>    
 </p>
-
-<!--
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danajlim&layout=compact&theme=graywhite&cache_seconds=1800">
-<img src="https://github-readme-stats.vercel.app/api?username=danajlim&theme=graywhite&show_icons=true&cache_seconds=1800">
-
--->
