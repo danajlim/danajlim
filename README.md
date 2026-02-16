@@ -21,5 +21,5 @@
 </p>
 
 <div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={danajlim}" width=40% />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=danajlim" width=40% />
 </div>
