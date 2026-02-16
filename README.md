@@ -19,3 +19,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>    
 </p>
+
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={danajlim}" width=40% />
+</div>
